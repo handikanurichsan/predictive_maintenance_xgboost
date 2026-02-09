@@ -1,5 +1,3 @@
-# predictive_maintenance_xgboost
-
 # Predictive Maintenance using XGBoost
 
 ## Overview
